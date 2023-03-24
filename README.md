@@ -18,6 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay3132&show_icons=true&locale=en&layout=compact" alt="tanmay3132" /></p>
 
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+</a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay3132&show_icons=true&locale=en" alt="tanmay3132" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay3132&" alt="tanmay3132" /></p>
